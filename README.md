@@ -1,0 +1,1 @@
+This repository contains the files required to replicate the work done in the paper: "Comparative Evaluation of Graph Attention Networks and Physics-Informed Multi-Layer Perceptrons for Urban Pluvial Flood Surrogate Modelling: A Benchmark Study"
